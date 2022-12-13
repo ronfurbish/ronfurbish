@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ronfurbish
 - 👀 I’m interested in helping teach folks to make their learning and development easier.
 - 🌱 I’m currently learning React
-- 📫 How to reach me 
+- 📫 How to reach me ronfurbishcoding@gmail.com
 
 <!---
 ronfurbish/ronfurbish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
