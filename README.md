@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronfurbish
 - 👀 I’m interested in helping teach folks to make their learning and development easier.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Swift
 - 📫 How to reach me ronfurbishcoding@gmail.com
 
 <!---
